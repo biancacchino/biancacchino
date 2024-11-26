@@ -13,5 +13,5 @@
     }
   ]
 
-/bianca $ echo "Thanks for visiting!"
+/bianca@yorkucs $ echo "Thanks for visiting!"
 </pre>
