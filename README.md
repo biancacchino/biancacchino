@@ -5,7 +5,7 @@
     "categories": [
     {
       "name": "Languages",
-      "items": ["Java", "Javascript", "Python"]
+      "items": ["Java", "Javascript", "Python", "C++"]
     },
     {
       "name": "Frameworks",
