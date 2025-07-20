@@ -1,15 +1,37 @@
-<pre style="background-color: black; color: white; font-family: 'Courier New', monospace; padding: 20px; border-radius: 5px; white-space: pre-wrap;">
-biancajavier@yorkucs README % git add .
-biancajavier@yorkucs README % git commit -m "java, javascript, python, c++"
-biancajavier@yorkucs README % git push origin thanks4visiting
-Enumerating objects: 15, done.
-Counting objects: 100% (15/15), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (12/12), done.
-Writing Objects: 100% (13/13), 1.82 KiB | 1.82 MiB/s, done.
-Total 13 (delta 1), reused 0 (delta 0), pack-reused 0
-remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/biancacchino.git
-  7cad2b0..f23cfda  thanks4visiting -> thanks4visiting
-biancajavier@yorkucs README %
-</pre>
+<h1 align="left">bianca javier 🌱</h1>
+
+###
+
+<p align="left">2 years of aura farming @ yorku</p>
+
+###
+
+<h2 align="left">about me</h2>
+
+###
+
+<p align="left">web developer for love and peace<br>guitarist and producer</p>
+
+###
+
+<h2 align="left">coding bugs in</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
