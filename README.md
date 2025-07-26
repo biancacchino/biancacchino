@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">2 years of aura farming @ yorku 🇨🇦</p>
+<p align="left">2 years of aura farming @ yorku</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">web developer for love and peace ䷊<br>avid guitarist and electronic music creator</p>
+<p align="left">full-stack dev with intention ䷊<br>bassist</p>
 
 ###
 
