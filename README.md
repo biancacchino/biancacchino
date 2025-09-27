@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">2 years of aura farming @ yorku</p>
+<p align="left">2nd year @ yorku</p>
 
 ###
 
