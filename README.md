@@ -3,6 +3,7 @@
 ###
 
 <p align="left">2nd year @ yorku</p>
+<p align="left">seeking 2026 summer internships</p>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">full-stack dev with intention ䷊<br>bassist</p>
+<p align="left">full-stack dev with intention ䷊<br>guitarist and bassist</p>
 
 ###
 
