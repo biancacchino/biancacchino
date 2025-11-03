@@ -10,10 +10,6 @@
     {
       "name": "Web Development",
       "items": ["React", "Next.js", "Node.js", "Express.js", "HTML", "CSS", "Postgres"]
-    },
-    {
-      "name": "Tools & Technologies",
-      "items": ["Git", "REST APIs", "Version Control", "NextAuth", "Passport.js"]
     }
   ]
 /bianca@yorkucs $ cat aboutme.txt
