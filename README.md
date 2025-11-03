@@ -1,22 +1,26 @@
-<h1 align="left">bianca javier 🌱</h1>
-
-###
-
-<p align="left">2nd year @ yorku</p>
-<p align="left">seeking 2026 summer internships</p>
-
-###
-
-<h2 align="left">about me</h2>
-
-###
-
-<p align="left">full-stack dev with intention ䷊<br>guitarist and bassist</p>
-
-###
-
-<h2 align="left">coding bugs in</h2>
-<div align=""left>
-  react, typescript, go, postgres, java, python
-</div>
-
+```bash
+/bianca@yorkucs $ cat readme.py
+  {
+    "type": "skills",
+    "categories": [
+    {
+      "name": "Languages",
+      "items": ["Java", "Python", "Go", "Typescript", "Javascript", "SQL"]
+    },
+    {
+      "name": "Web Development",
+      "items": ["React", "Next.js", "Node.js", "Express.js", "HTML", "CSS", "Postgres"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "items": ["Git", "REST APIs", "Version Control", "NextAuth", "Passport.js"]
+    }
+  ]
+/bianca@yorkucs $ cat aboutme.txt
+  - 🏆 Won "Most Creative Game" at DPCDSB Competition
+  - 🚀 Built production AI app (PackPal.fit) in 24hrs with Gemini 2.5 implementation
+  - 💼 Seeking 2026 summer internships
+  - 🎸 Guitarist
+  - 🔍 Interested in multimedia programming
+/bianca@yorkucs $ echo "Thanks for visiting!"
+```
