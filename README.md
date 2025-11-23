@@ -14,7 +14,7 @@
   ]
 /bianca@yorkucs $ cat aboutme.txt
   - 🏆 Won "Most Creative Game" at DPCDSB Competition
-  - 🚀 Built production AI app (PackPal.fit) in 24hrs with Gemini 2.5 implementation
+  - 🏆 Won 1st Place at ElleHacks Vibe the Code 2025
   - 💼 Seeking 2026 summer internships
   - 🎸 Guitarist
   - 🔍 Interested in multimedia programming
