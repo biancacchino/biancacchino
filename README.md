@@ -1,22 +1,4 @@
-```bash
-/bianca@yorkucs $ cat readme.py
-  {
-    "type": "skills",
-    "categories": [
-    {
-      "name": "Languages",
-      "items": ["Java", "Python", "Go", "Typescript", "Javascript", "SQL"]
-    },
-    {
-      "name": "Web Development",
-      "items": ["React", "Next.js", "Node.js", "Express.js", "HTML", "CSS", "Postgres"]
-    }
-  ]
-/bianca@yorkucs $ cat aboutme.txt
-  - 🏆 Won "Most Creative Game" at DPCDSB Competition
-  - 🏆 Won 1st Place at ElleHacks Vibe the Code 2025
-  - 💼 Seeking 2026 summer internships
-  - 🎸 Guitarist
-  - 🔍 Interested in multimedia programming
-/bianca@yorkucs $ echo "Thanks for visiting!"
-```
+# BIANCA JAVIER !
+SOFTWARE ENGINEER IN TORONTO<br>
+SECOND YEAR COMPUTER SCIENCE HONOURS @ YORK U<br>
+INTERESTED IN MULTIMEDIA PROGRAMMING AND SOFTWARE ENGINEERING INTERNSHIPS 2026
