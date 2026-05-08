@@ -1,3 +1,4 @@
-# BIANCA JAVIER !
-SOFTWARE ENGINEER IN TORONTO<br>
-SECOND YEAR COMPUTER SCIENCE HONOURS @ YORK U<br>
+# bianca javier
+
+intentional software engineer<br>
+computer science hons @ yu
