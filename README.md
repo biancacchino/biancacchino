@@ -2,5 +2,7 @@
   <img src="/images/bianca-readme.png" alt="hi, i'm bianca!">
 </div>
 
-developing for the legislative assembly of ontario<br>
-exploring the human-first intersection of art and artificial intelligence
+# about me
+
+i'm spending my summer developing at the legislative assembly of ontario!<br>
+on top of that, i'm studying machine learning, and loving every moment of the sun. :D
