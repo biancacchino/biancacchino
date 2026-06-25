@@ -8,5 +8,5 @@
 \> on top of that, i'm studying machine learning, and loving every moment of the sun. :D
 
 <div align="center">
-  <a href="https://www.biancajavier.dev" target="_blank" rel="noopener noreferrer">check out my portfolio!</a>
+  <a href="https://www.biancajavier.dev">check out my portfolio!</a>
 </div>
