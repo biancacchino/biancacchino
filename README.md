@@ -3,7 +3,8 @@
 </div>
 
 # about me
-\> i am a software engineer, third year of my bachelor of arts in computer science at york university.<br>
+\> i am a software engineer @ kw creators, and a developer @ hydroficient. <br>
+\> i am a third year of my bachelor of arts in computer science @ york university.<br>
 \> i spent my summer developing at the legislative assembly of ontario!<br>
 \> i'm studying machine learning, computer security, and loving every moment of the sun. :D
 
